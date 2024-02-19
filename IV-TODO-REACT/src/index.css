@@ -1,7 +1,8 @@
 /* GENERAL STYLE OVERRIDES */
 :root {
-  --primary-background: #253D5B ;
-  --primary-accent: #969696;
+  --primary-background: #e9ecf1;
+  --primary-text: #353841;
+  --primary-accent: #3e72f6;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -27,6 +28,6 @@ body {
   width: 100vw;
   height: 100vh;
   background-color: var(--primary-background);
-  color: var(--primary-accent);
+  color: var(--primary-text);
 }
 
